@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<title>plesk</title>
+	<defs>
+		<image  width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAAXNSR0IB2cksfwAAAQVQTFRFAAAATExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMPT09QUFBS0tLODg4TExMMDAwNzc3SkpKKCgoSUlJLi4uLS0tQ0NDOzs7LCwsRkZGREREKioqKSkpQkJCNTU1TExMRUVFJSUlSEhIISEhICAgR0dHIiIiPz8/QEBAPj4+FhYWHBwcJycnHR0dMTExFxcXMjIyJiYmTE5PTldbTlhbTldaNjY2TlldUYmfUYujUIedTExMTExMTExMTExMtPRa6wAAAFd0Uk5TABRSk8Pg9f0JVrD6/wZVz/wAKbxi5wKRn5JhKr4IzrJQT//////E//////////////////////T///////////////////////////////////+xV5BRj86dXAAAAbVJREFUeJydlXlbgkAQxteTkAGvzDszKaCy8EqhREm7T7u+/0dpKZUFRdjev4Znf8/yzu7sDEJOhcKRaCzOMPFYNBIOoQ3aYhMcEOIS7JYHygvJFLiUSgr8GjSdya6gv3g2k17Zdju3DrWU23ZtvpPnvFhsPb/jYAveqKUCQfPFzSxAcekkXdrgYe6ktMiy7JmbrVxmbqLizwJU/oywTBCYYS22uhuEBditYlhYe3GrSgkYrgVjAWq4Jn2PbSEuhPaCsgB15L68/YYdiweOpTw6dMGSbMfKkWMpimLL+PikeXJqwWeq2oJ2p3uG4d65DcdQfxkPNNAvdEluXcLQAG0kjpSj8aViw33EkDBopiQfXBnGBEaTaVsxrnXCRsoFGz1JNrs4NVBE81qZqjcOmLBxe6N1REkWDVW9g2ZHvceeNcJzn0hwYJhtgCH+8biHPxsNEYYAbTJB++gsGw+PT0/P4KFD4lL0F4DXt9ns3QvOo7rX0qrqdIUUvEQ/aIuf6lmhz2AP9pO+FQRrMuX/tC/ER/zgItGiaVquXzP/crB0Y4JuACGq0WaJYmj+KvRtj+Nv9zj+AYEAZjvdZUPUAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
